@@ -1,0 +1,12 @@
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Infrastructure\bin\Debug\netcoreapp3.1\HangFire.Infrastructure.deps.json
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Infrastructure\bin\Debug\netcoreapp3.1\HangFire.Infrastructure.dll
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Infrastructure\bin\Debug\netcoreapp3.1\HangFire.Infrastructure.pdb
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Infrastructure\bin\Debug\netcoreapp3.1\HangFire.Domain.dll
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Infrastructure\bin\Debug\netcoreapp3.1\HangFire.Domain.pdb
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Infrastructure\obj\Debug\netcoreapp3.1\HangFire.Infrastructure.csprojAssemblyReference.cache
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Infrastructure\obj\Debug\netcoreapp3.1\HangFire.Infrastructure.AssemblyInfoInputs.cache
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Infrastructure\obj\Debug\netcoreapp3.1\HangFire.Infrastructure.AssemblyInfo.cs
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Infrastructure\obj\Debug\netcoreapp3.1\HangFire.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Infrastructure\obj\Debug\netcoreapp3.1\HangFire.Infrastructure.csproj.CopyComplete
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Infrastructure\obj\Debug\netcoreapp3.1\HangFire.Infrastructure.dll
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Infrastructure\obj\Debug\netcoreapp3.1\HangFire.Infrastructure.pdb

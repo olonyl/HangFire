@@ -1,0 +1,8 @@
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Domain\bin\Debug\netcoreapp3.1\HangFire.Domain.deps.json
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Domain\bin\Debug\netcoreapp3.1\HangFire.Domain.dll
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Domain\bin\Debug\netcoreapp3.1\HangFire.Domain.pdb
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Domain\obj\Debug\netcoreapp3.1\HangFire.Domain.AssemblyInfoInputs.cache
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Domain\obj\Debug\netcoreapp3.1\HangFire.Domain.AssemblyInfo.cs
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Domain\obj\Debug\netcoreapp3.1\HangFire.Domain.csproj.CoreCompileInputs.cache
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Domain\obj\Debug\netcoreapp3.1\HangFire.Domain.dll
+C:\Lab\Smart-Apartment-Data\03 - HangFire\HangFire.Domain\obj\Debug\netcoreapp3.1\HangFire.Domain.pdb

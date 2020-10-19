@@ -1,0 +1,217 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Service\\HangFire.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Domain\\HangFire.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Domain\\HangFire.Domain.csproj",
+        "projectName": "HangFire.Domain",
+        "projectPath": "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Domain\\HangFire.Domain.csproj",
+        "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
+        "outputPath": "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Infrastructure\\HangFire.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Infrastructure\\HangFire.Infrastructure.csproj",
+        "projectName": "HangFire.Infrastructure",
+        "projectPath": "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Infrastructure\\HangFire.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
+        "outputPath": "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Domain\\HangFire.Domain.csproj": {
+                "projectPath": "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Domain\\HangFire.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Service\\HangFire.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Service\\HangFire.Service.csproj",
+        "projectName": "HangFire.Service",
+        "projectPath": "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Service\\HangFire.Service.csproj",
+        "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
+        "outputPath": "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Domain\\HangFire.Domain.csproj": {
+                "projectPath": "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Domain\\HangFire.Domain.csproj"
+              },
+              "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Infrastructure\\HangFire.Infrastructure.csproj": {
+                "projectPath": "C:\\Lab\\Smart-Apartment-Data\\03 - HangFire\\HangFire.Infrastructure\\HangFire.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.7.16, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.7.16, )"
+            },
+            "Hangfire.MemoryStorage": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "ScrapySharp": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
